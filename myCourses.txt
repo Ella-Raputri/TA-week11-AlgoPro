@@ -1,0 +1,25 @@
+COURSES INFORMATION
+Course Details
+=============================================================
+Course Code: MATH1
+Course Name: DisMath (current students: 4)
+Course Maximum Capacity: 4
+Course Lecturer: Lyris
+Course SCU: 4
+
+Course Details
+=============================================================
+Course Code: COMP1
+Course Name: AlgoPro (current students: 1)
+Course Maximum Capacity: 10
+Course Lecturer: Alain
+Course SCU: 4
+
+Course Details
+=============================================================
+Course Code: CHAR1
+Course Name: Pancasila (current students: 2)
+Course Maximum Capacity: 8
+Course Lecturer: Narcissus
+Course SCU: 2
+
